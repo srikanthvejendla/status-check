@@ -7,7 +7,7 @@
       "Timestamp": "2024-09-09 11:54:33 PDT"
     },
     {
-      "Service Name": "App Store Connect - TestFlight",
+      "Service Name": "TestFlight",
       "Status": "Available",
       "Timestamp": "2024-09-09 11:54:33 PDT"
     },
@@ -27,7 +27,7 @@
       "Timestamp": "2024-09-09 11:54:38 PDT"
     },
     {
-      "Service Name": "Google Play Store Publishing API",
+      "Service Name": "Google Play Store",
       "Status": "Available",
       "Timestamp": "2024-09-09 11:54:40 PDT"
     }
