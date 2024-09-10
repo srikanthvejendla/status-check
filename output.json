@@ -30,6 +30,11 @@
       "Service Name": "Google Play Store",
       "Status": "Available",
       "Timestamp": "2024-09-09 18:03:24 PDT"
+    },
+    {
+      "Service Name": "Apple AppStore",
+      "Status": "Available",
+      "Timestamp": "2024-09-09 18:03:24 PDT"
     }
   ]
 }
