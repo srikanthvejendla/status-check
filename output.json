@@ -2,12 +2,12 @@
   "timestamp": "2024-09-11 10:38:26 PDT",
   "statuses": [
     {
-      "Service Name": "App Store Connect - (Opens in new window)",
+      "Service Name": "App Store Connect",
       "Status": "Available",
       "Timestamp": "2024-09-11 10:38:15 PDT"
     },
     {
-      "Service Name": "App Store Connect - TestFlight - (Opens in new window)",
+      "Service Name": "TestFlight",
       "Status": "Available",
       "Timestamp": "2024-09-11 10:38:15 PDT"
     },
