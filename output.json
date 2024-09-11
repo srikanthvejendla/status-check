@@ -1,35 +1,35 @@
 {
-  "timestamp": "2024-09-11 08:25:51 PDT",
+  "timestamp": "2024-09-11 10:38:26 PDT",
   "statuses": [
     {
-      "Service Name": "App Store Connect",
+      "Service Name": "App Store Connect - (Opens in new window)",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:43 PDT"
+      "Timestamp": "2024-09-11 10:38:15 PDT"
     },
     {
-      "Service Name": "TestFlight",
+      "Service Name": "App Store Connect - TestFlight - (Opens in new window)",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:43 PDT"
+      "Timestamp": "2024-09-11 10:38:15 PDT"
     },
     {
       "Service Name": "TestRail Cloud",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:46 PDT"
+      "Timestamp": "2024-09-11 10:38:20 PDT"
     },
     {
-      "Service Name": "AppCenter Builds",
+      "Service Name": "AppCenter Distribute",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:49 PDT"
+      "Timestamp": "2024-09-11 10:38:23 PDT"
     },
     {
       "Service Name": "AppCenter Portal",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:49 PDT"
+      "Timestamp": "2024-09-11 10:38:23 PDT"
     },
     {
       "Service Name": "Google Play Store",
       "Status": "Available",
-      "Timestamp": "2024-09-11 08:25:51 PDT"
+      "Timestamp": "2024-09-11 10:38:26 PDT"
     }
   ]
 }
